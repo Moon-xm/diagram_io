@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T03:05:53.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="AHIHaFR_3dNv9B88a88j" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T03:06:19.719Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="rRs_41W1ua8V3kDPsPP1" version="20.8.23" type="github">
   <diagram name="第 1 页" id="peecSaAL3MAONWQxxy4z">
-    <mxGraphModel dx="1204" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1525" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -157,7 +157,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Kpsw_ViAtFa_HjZipm2I-91" value="半结构化数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="281" y="304" width="83" height="30" as="geometry" />
+          <mxGeometry x="272.08" y="302.5" width="83" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Kpsw_ViAtFa_HjZipm2I-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kpsw_ViAtFa_HjZipm2I-104" target="HKrr7W6Z35hLbdNPTzv4-5">
           <mxGeometry relative="1" as="geometry" />
@@ -176,6 +176,9 @@
         </mxCell>
         <mxCell id="Kpsw_ViAtFa_HjZipm2I-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kpsw_ViAtFa_HjZipm2I-106" target="HKrr7W6Z35hLbdNPTzv4-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Kpsw_ViAtFa_HjZipm2I-114" value="结构化数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="69.99999999999997" y="300" width="83" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
